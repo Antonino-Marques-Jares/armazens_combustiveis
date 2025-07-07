@@ -47,7 +47,7 @@ Antonino Marques Jares
 
 ## Projeto no GitHub: 
 
-[Bacias Hidrográficas](https://github.com/Antonino-Marques-Jares/armazens_combustiveis/tree/main)
+[Armazens Combustíveis](https://github.com/Antonino-Marques-Jares/armazens_combustiveis/tree/main)
 
 ## Página Publicação:
 
