@@ -33,9 +33,9 @@ Juntando as informações relevantes no **df_final** ficamos com as seguintes co
 - latitude
 - longitude
 
-  Criamos um json a partir do df_final.
+Criamos um json a partir do df_final.
   
-  **Criamos um html com o json incorporado onde é exibido o mapa.**
+**Criamos um html com o json incorporado onde é exibido o mapa.**
 
 **Autor:** 
 
