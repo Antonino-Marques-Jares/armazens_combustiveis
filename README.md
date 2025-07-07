@@ -19,23 +19,23 @@ Armazéns de Combustíveis pelo Brasil
 
 ### Passo 2 - Execute o programa capacidade_terminais.ipynb.
 
-No programa criamos o data frame df_armazens
+  No programa criamos o data frame df_armazens
 
-Criamos com base nos csvs estados.csv e municipios.csv o df_municipios que consta a posição geográfica de cada Município.
+  Criamos com base nos csvs estados.csv e municipios.csv o df_municipios que consta a posição geográfica de cada Município.
 
-Juntando as informações relevantes no **df_final** ficamos com as seguintes colunas :
+  Juntando as informações relevantes no **df_final** ficamos com as seguintes colunas :
 
-- Municipio <- É o nome do Município sem acentos o caracteres especiais. Foi uma padronização para executar o Join.
-- Estado <- Nome do Estado
-- Capacidade_nominal_petroleo
-- Capacidade_nominal_derivados_biocombustiveis
-- Capacidade_nominal_GLP
-- latitude
-- longitude
+  - Municipio <- É o nome do Município sem acentos o caracteres especiais. Foi uma padronização para executar o Join.
+  - Estado <- Nome do Estado
+  - Capacidade_nominal_petroleo
+  - Capacidade_nominal_derivados_biocombustiveis
+  - Capacidade_nominal_GLP
+  - latitude
+  - longitude
 
-Criamos um json a partir do df_final.
+  Criamos um json a partir do df_final.
   
-**Criamos um html com o json incorporado onde é exibido o mapa.**
+  **Criamos um html com o json incorporado onde é exibido o mapa.**
 
 **Autor:** 
 
