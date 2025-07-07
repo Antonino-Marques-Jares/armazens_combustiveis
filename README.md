@@ -1,4 +1,4 @@
-![Terminal](terminal_combustível.png)
+![Terminal](terminal_combustivel.png)
 
 # armazens_combustiveis
 Armazéns de Combustíveis pelo Brasil
