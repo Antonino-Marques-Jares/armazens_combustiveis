@@ -6,18 +6,18 @@ Armazéns de Combustíveis pelo Brasil
 ## Fonte dos Armazens:
 [![Dados Abertos](govbr.webp)](https://dados.gov.br/dados/conjuntos-dados/capacidade-de-armazenagem-de-terminais)
 
-### Informações de latitude e longitude dos Municípios Brasileiros
+## Informações de latitude e longitude dos Municípios Brasileiros
 
 - https://github.com/kelvins/municipios-brasileiros/blob/main/csv/estados.csv
 - https://github.com/kelvins/municipios-brasileiros/blob/main/csv/municipios.csv
 
-### Passo 1 - Baixe o arquivos CSV: 
+## Passo 1 - Baixe o arquivos CSV: 
 
 - capacidade-armazem-terminais.csv
 - estados.csv
 - municipios.csv
 
-### Passo 2 - Execute o programa capacidade_terminais.ipynb.
+## Passo 2 - Execute o programa capacidade_terminais.ipynb.
 
   No programa criamos o data frame df_armazens
 
@@ -35,21 +35,21 @@ Armazéns de Combustíveis pelo Brasil
 
   Criamos um json a partir do df_final.
   
-  **Criamos um html com o json incorporado onde é exibido o mapa.**
+  Criamos um html com o json incorporado onde é exibido o mapa.
 
-**Autor:** 
+## Autor: 
 
 Antonino Marques Jares
 
-**Atualizado em:** 
+## Atualizado em: 
 
 04/07/2025
 
-**Projeto no GitHub:** 
+## Projeto no GitHub: 
 
 [Bacias Hidrográficas](https://github.com/Antonino-Marques-Jares/armazens_combustiveis/tree/main)
 
-**Página Publicação:** 
+## Página Publicação:
 
 [Área de Trampo - Mapa de armazens de combustíveis](https://www.areadetrampo.com.br/armazens-de-combustiveis-pelo-brasil/))
 
