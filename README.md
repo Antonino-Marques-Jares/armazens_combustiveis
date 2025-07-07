@@ -3,9 +3,13 @@
 # armazens_combustiveis
 Armazéns de Combustíveis pelo Brasil
 
-## Fonte:
+## Fonte dos Armazens:
 [![Dados Abertos](govbr.webp)](https://dados.gov.br/dados/conjuntos-dados/capacidade-de-armazenagem-de-terminais)
 
+### Informações de latitude e longitude dos Municípios Brasileiros
+
+- https://github.com/kelvins/municipios-brasileiros/blob/main/csv/estados.csv
+- https://github.com/kelvins/municipios-brasileiros/blob/main/csv/municipios.csv
 
 ### Passo 1 - Baixe o arquivos CSV: 
 
