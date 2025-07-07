@@ -17,7 +17,7 @@ Armazéns de Combustíveis pelo Brasil
 - estados.csv
 - municipios.csv
 
-### Passo 2 - Execute o programa em Python que vai gerar o html atualizado.
+### Passo 2 - Execute o programa capacidade_terminais.ipynb.
 
 No programa criamos o data frame df_armazens
 
@@ -34,7 +34,7 @@ Juntando as informações relevantes no **df_final** ficamos com as seguintes co
 - longitude
 
   Criamos um json a partir do df_final.
-  Criamos um html com o json incorporado onde é exibido o mapa.
+  **Criamos um html com o json incorporado onde é exibido o mapa.**
 
 **Autor:** 
 
