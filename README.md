@@ -23,9 +23,11 @@ Antonino Marques Jares
 
 **Projeto no GitHub:** 
 
-[Bacias Hidrográficas](https://github.com/Antonino-Marques-Jares/Bacias-Hidrogrficas/tree/main)
+[Bacias Hidrográficas](https://github.com/Antonino-Marques-Jares/armazens_combustiveis/tree/main)
 
-**Página Publicação:** [Área de Trampo - Mapa Bacias Hidrográfica](https://www.areadetrampo.com.br/mapa-de-bacias-hidrograficas/)
+**Página Publicação:** 
+
+[Área de Trampo - Mapa de armazens de combustíveis](https://www.areadetrampo.com.br/armazens-de-combustiveis-pelo-brasil/))
 
 
 
