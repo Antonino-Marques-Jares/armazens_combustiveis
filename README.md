@@ -1,7 +1,7 @@
 ![Terminal](terminais_combustivel.jpg)
 
 # armazens_combustiveis
-Armazéns de Combustíveis pelo Brasil
+Mapa de armazéns de combustíveis pelo Brasil
 
 ## Fonte dos Armazens:
 [![Dados Abertos](govbr.webp)](https://dados.gov.br/dados/conjuntos-dados/capacidade-de-armazenagem-de-terminais)
