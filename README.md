@@ -13,7 +13,9 @@ Armazéns de Combustíveis pelo Brasil
 
 ### Passo 1 - Baixe o arquivos CSV: 
 
-capacidade-armazem-terminais.csv
+- capacidade-armazem-terminais.csv
+- estados.csv
+- municipios.csv
 
 ### Passo 2 - Execute o programa em Python que vai gerar o html atualizado.
 
