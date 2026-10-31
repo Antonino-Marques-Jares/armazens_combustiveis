@@ -1,6 +1,6 @@
 ![Terminal](terminais_combustivel.jpg)
 
-# armazens_combustiveis
+# Armazens de Combustiveis e derivados no Brasil
 Mapa de armazéns de Petróleo, Derivados de Biocombustíveis e GLP pelo Brasil
 
 # Latitude e Longitude 
