@@ -6,8 +6,12 @@ Mapa de armazéns de Petróleo, Derivados de Biocombustíveis e GLP pelo Brasil
 # Colunas de interesse
 uf, municipio, tipo, operador, petroleo, derivados_biocombustiveis, glp
 
+# Mais informações
+https://www.areadetrampo.com.br/ativo/
+
 # Estrutura JSON
-```{
+```
+{
   "metadados": {
     "data_ultima_atualizacao": "02-11-2026",
     "responsavel": "Antonino Marques Jares",
@@ -25,10 +29,11 @@ uf, municipio, tipo, operador, petroleo, derivados_biocombustiveis, glp
       "glp": 0.0
     },...
   ]
-}```
+}
+```
 
-# Mais informações
-https://www.areadetrampo.com.br/ativo/
+
+
 
 
 
